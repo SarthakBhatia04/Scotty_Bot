@@ -13,6 +13,8 @@ The inspiration for improving Scotty Bot came from our own daily experiences as 
 
 Brainstorming photos
 =============
+[Modifications_Brainstorming.pdf](https://github.com/user-attachments/files/23353724/Modifications_Brainstorming.pdf)
+[](url)
 
 Component Research
 =============
