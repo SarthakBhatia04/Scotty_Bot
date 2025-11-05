@@ -1,4 +1,4 @@
-##### Scotty Bot
+# Scotty Bot
 ### Table of Contents
 [Inspiration](#inspiration)   
 [Brainstorming photos](#brainstrsoming-photos)  
@@ -27,18 +27,18 @@ Mechanically, we evaluated rigid vs. suspended chassis designs and chose an RC-s
 This component research ensured the design stayed cost-effective, durable, and technically scalable for future upgrades.
     
 ## AI / Navigation
-# AI & Processing
+### AI & Processing
  - Raspberry Pi (main brain)
  - Arduino (motor + safety control)
  - Speech recognition software (Vosk)
  - Text-to-speech system (Piper)
 
-# Sensors
+### Sensors
 - Ultrasonic sensors
 - LiDAR unit
 - Camera (optional for interaction)
 
-# Connectivity
+### Connectivity
 - GPS for outdoor location
 - SLAM for indoor mapping
 - Motor driver + power interface
@@ -46,18 +46,18 @@ This component research ensured the design stayed cost-effective, durable, and t
 With these components in mind, we sought a lightweight AI setup that would run smoothly on a mobile robot. Using a Raspberry Pi alongside an Arduino gave us a simple split—navigation and AI on the Pi, and motor/safety control on the Arduino. We compared ultrasonic sensors and LiDAR to balance cost and performance, choosing a mix that keeps Scotty safe in tight spaces while still enabling accurate indoor and outdoor navigation.
 
 ## Suspension
-# Shock / Damping Components
+### Shock / Damping Components
 - RC-style coilover shocks (oil-filled)
 - Upper/lower shock mounts
 - Swing-arm or wheel-pod brackets
 - Mounting hardware
 
-# Frame Integration
+### Frame Integration
 - 3D-printed or aluminum suspension arms
 - Reinforced chassis connection points
 - Vibration isolators
 
-# Performance Needs
+### Performance Needs
 - Maintain wheel contact
 - Reduce chassis vibration
 - Stability during skid-steer turning
@@ -65,19 +65,19 @@ With these components in mind, we sought a lightweight AI setup that would run s
 When researching suspension options, we looked at RC vehicles like the Arrma Outcast to understand how compact oil-filled shocks handle uneven ground. This guided us toward components strong enough for Scotty’s weight. Switching from a rigid frame to independent suspension helps protect the electronics from vibration and improves traction over sidewalk joints and during turns.
 
 ## Soslar and Battery
-# Solar Components
+### Solar Components
 - Rigid 10–20 W Renogy monocrystalline panel
 - Adjustable aluminum mounting brackets
 - Solar wiring w/ protective insulation
 - Weather-resistant connectors
 
-# Battery / Charging
+### Battery / Charging
 - 12.8 V LiFePO₄ battery (15 Ah)
 - CC/CV charge controller
 - Charging dock interface
 - Safety fuse + cutoff switch
 
-# Mounting
+### Mounting
 - Panel on rails / hood / front “tanning” concept
 - Battery stored in the lower blue housing
 - Cable routing through frame channels
