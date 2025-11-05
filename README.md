@@ -1,5 +1,6 @@
 # Scotty Bot
 <img width="693" height="928" alt="Image" src="https://github.com/user-attachments/assets/17872cd7-ae0f-4b0b-8c88-0e2ec8992839" />
+
 ### Table of Contents
 [Inspiration](#inspiration)   
 [Brainstorming photos](#brainstrsoming-photos)  
