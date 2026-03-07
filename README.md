@@ -1,95 +1,140 @@
-# Scotty Bot
-<img width="693" height="928" alt="Image" src="https://github.com/user-attachments/assets/17872cd7-ae0f-4b0b-8c88-0e2ec8992839" />
-
 ### Table of Contents
-[Inspiration](#inspiration)   
-[Brainstorming photos](#brainstrsoming-photos)  
-[Component Research](#component-research)  
-[Cad parts screenshots](#cad-parts-screenshots)     
-[Process photos](#process-photos)  
-[Errors and Solutions](#errors-and-solutions)  
 
-Inspiration
-=============
-The inspiration for improving Scotty Bot came from our own daily experiences as UCR students. Even as fourth-years, we realized there are still parts of campus we second-guess or have trouble finding, especially when buildings look similar or routes are confusing. After seeing new students struggle even more during tours and welcome events, it became clear how helpful a friendly, mobile guide could be. That idea — creating something that would genuinely make navigating campus easier — motivated us to redesign Scotty Bot into a more capable, dependable version of the mascot we all know. Our own challenges with directions, along with watching others hesitate or ask for help, shaped our vision for a robot that isn’t just a project, but a tool that can support students the moment they arrive at UCR.
+Inspiration  
+Brainstorming photos  
+Component Research  
+System Features  
+Process and Progress  
+Safety Precautions  
+Future Improvements  
 
-Brainstorming photos
-=============
-<img width="746" height="761" alt="Image" src="https://github.com/user-attachments/assets/698801d9-9b81-4e5d-8911-76003ba76030" />
+# Inspiration
 
-Component Research
-=============
-To develop the updated Scotty Bot, we conducted a focused evaluation of all major subsystems, comparing cost, performance, and integration requirements. All parts were tracked in a spreadsheet detailing unit price, total cost, vendor, quantity, and delivery lead time. I've included this spreadsheet above for reference. 
- 
-For sensing and navigation, we reviewed ultrasonic modules for close-range obstacle detection, a compact 2D LiDAR unit for mapping/localization, and lightweight vision cameras for optional interaction features. Control duties were split between a Raspberry Pi (high-level navigation and AI tasks) and an Arduino (motor, sensor, and safety-critical logic) to efficiently manage processing. 
-    
-In the power subsystem, we selected a low-cost 10–20 W rigid Renogy monocrystalline solar panel to reduce expenses while maintaining compatibility with a 12.8 V LiFePO₄ battery and CC/CV charge controller. LiFePO₄ cells were chosen for their stable discharge curve, long cycle life, and suitability for mobile systems. 
-  
-Mechanically, we evaluated rigid vs. suspended chassis designs and chose an RC-style independent suspension using small oil-filled coilover shocks. This improves traction during skid-steer motion, maintains wheel contact on uneven surfaces, and reduces vibration transmitted to the electronics. 
-  
-This component research ensured the design stayed cost-effective, durable, and technically scalable for future upgrades.
-    
-## AI / Navigation
-### AI & Processing
- - Raspberry Pi (main brain)
- - Arduino (motor + safety control)
- - Speech recognition software (Vosk)
- - Text-to-speech system (Piper)
+The inspiration for ScottyBot came from the idea of creating a robot that could combine mobility, navigation, renewable energy, and interactive user communication into one system. The goal was to make a project that was not only mechanical, but also included electrical and software-based features.
 
-### Sensors
-- Ultrasonic sensors
-- LiDAR unit
-- Camera (optional for interaction)
+This project was especially interesting because it allowed different engineering ideas to come together in one build. Instead of focusing on only movement or only coding, ScottyBot became a combination of suspension design, navigation, solar integration, voice interaction, and AI-based response.
 
-### Connectivity
-- GPS for outdoor location
-- SLAM for indoor mapping
-- Motor driver + power interface
+# Brainstorming photos
 
-With these components in mind, we sought a lightweight AI setup that would run smoothly on a mobile robot. Using a Raspberry Pi alongside an Arduino gave us a simple split—navigation and AI on the Pi, and motor/safety control on the Arduino. We compared ultrasonic sensors and LiDAR to balance cost and performance, choosing a mix that keeps Scotty safe in tight spaces while still enabling accurate indoor and outdoor navigation.
+Add brainstorming images, sketches, or notebook screenshots here.
+
+# Component Research
+
+Before building and integrating the system, research was done on the main parts needed for ScottyBot. This included mechanical parts, electrical components, and software-related systems.
 
 ## Suspension
-### Shock / Damping Components
-- RC-style coilover shocks (oil-filled)
-- Upper/lower shock mounts
-- Swing-arm or wheel-pod brackets
+- Front wheel suspension components
 - Mounting hardware
+- Wheel support structure
 
-### Frame Integration
-- 3D-printed or aluminum suspension arms
-- Reinforced chassis connection points
-- Vibration isolators
+The front suspension was added in order to improve wheel stability and allow the robot to better handle uneven surfaces. This also helped strengthen the mechanical design of the front section.
 
-### Performance Needs
-- Maintain wheel contact
-- Reduce chassis vibration
-- Stability during skid-steer turning
+## Navigation System
+- Distance display system
+- Directional guidance logic
+- Location input concept
 
-When researching suspension options, we looked at RC vehicles like the Arrma Outcast to understand how compact oil-filled shocks handle uneven ground. This guided us toward components strong enough for Scotty’s weight. Switching from a rigid frame to independent suspension helps protect the electronics from vibration and improves traction over sidewalk joints and during turns.
+The navigation system is currently shallow in complexity, but it is able to show the distance to a location and provide mini directions. This gives ScottyBot a basic navigation feature that can be expanded in the future.
 
-## Soslar and Battery
-### Solar Components
-- Rigid 10–20 W Renogy monocrystalline panel
-- Adjustable aluminum mounting brackets
-- Solar wiring w/ protective insulation
-- Weather-resistant connectors
+## Solar System
+- Solar panel
+- Power transfer to electronics
+- Supplemental energy design
 
-### Battery / Charging
-- 12.8 V LiFePO₄ battery (15 Ah)
-- CC/CV charge controller
-- Charging dock interface
-- Safety fuse + cutoff switch
+Solar was added as part of the power system to support sustainability and show the use of renewable energy in the robot design.
 
-### Mounting
-- Panel on rails / hood / front “tanning” concept
-- Battery stored in the lower blue housing
-- Cable routing through frame channels
+## Battery and Electronics
+- Battery
+- Wiring connections
+- Power distribution to electronics
 
-For the power system, we switched from flexible panels to a cheaper, rigid Renogy option to cut costs while keeping good efficiency. We chose LiFePO₄ batteries for their safety and long lifespan. Mounting the panel, charge controller, and battery cleanly inside the frame made the system more reliable when powering the navigation, sensors, and AI together.
+The battery was wired into the electronics system so the robot could power its required components. Special attention was given to keeping the wiring organized and functional.
 
-Cad parts screenshots
-=============
-In progress
+## Voice Commands
+- Voice input system
+- Command recognition setup
+
+Voice commands were added so the robot could respond to user speech and provide a more interactive experience.
+
+## AI Response
+- AI-generated response system
+- User interaction support
+
+An AI response feature was implemented to allow ScottyBot to give responses during interaction. This adds an intelligent communication element to the project.
+
+# System Features
+
+## Front Wheel Suspension
+
+Suspension was added to the front wheels to improve balance and support smoother motion. This helps the robot maintain better stability and makes the structure more practical for movement.
+
+## Navigation Display
+
+The navigation feature can currently show distance to a place and provide small directional guidance. Although it is still basic, it establishes a foundation for future development into a deeper navigation system.
+
+## Solar Integration
+
+Solar integration was included as part of the robot’s design to support the electrical system and demonstrate an alternative energy source in the project.
+
+## Battery to Electronics Wiring
+
+The battery was connected to the electronics through the wiring system. This was an important step in making sure the robot’s different electrical features could operate together.
+
+## Voice Command Capability
+
+Voice command functionality allows ScottyBot to receive spoken input from the user. This improves the interaction between the robot and the user.
+
+## AI Response Capability
+
+ScottyBot can also produce AI-based responses, making the interaction more advanced and engaging.
+
+# Process and Progress
+
+## Step 1
+
+Planned the major subsystems of the robot, including mobility, power, navigation, and interaction.
+
+## Step 2
+
+Added front wheel suspension in order to improve the mechanical setup and front-end support.
+
+## Step 3
+
+Integrated the battery and electronics wiring while making sure the system remained organized and functional.
+
+## Step 4
+
+Added solar as part of the energy design and connected it into the project concept.
+
+## Step 5
+
+Developed a basic navigation system that can display distance and give mini directions.
+
+## Step 6
+
+Implemented voice command functionality so ScottyBot could accept spoken inputs.
+
+## Step 7
+
+Added AI response capability to improve the robot’s interactive behavior.
+
+# Safety Precautions
+
+Safety precautions were considered during the battery and electronics wiring process. Care was taken to keep wiring organized, avoid unsafe connections, and reduce the chance of damaging electrical components.
+
+This was an important part of the build because a working robot system depends not only on features being added, but also on making sure the electronics are connected in a safe and reliable way.
+
+# Future Improvements
+
+Although ScottyBot has made strong progress, several systems can still be expanded further.
+
+- Improve the depth and accuracy of the navigation system
+- Refine the mini direction system into a fuller guidance feature
+- Improve power efficiency between the battery and solar system
+- Expand voice command options
+- Make AI responses more advanced and context-aware
+
+ScottyBot currently has a strong base that combines mechanical design, power integration, and user interaction. Future work will focus on making each subsystem more polished and capable.
 
 Process photos
 =============
