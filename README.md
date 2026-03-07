@@ -2,21 +2,22 @@
 
 Inspiration  
 Brainstorming photos  
-Component Research  
+Component Research / Component list
 System Features  
 Process and Progress  
-Safety Precautions  
+Safety Precautions 
+Final Product
+What I learned throughout the project
 Future Improvements  
 
 # Inspiration
 
-The inspiration for ScottyBot came from the idea of creating a robot that could combine mobility, navigation, renewable energy, and interactive user communication into one system. The goal was to make a project that was not only mechanical, but also included electrical and software-based features.
-
-This project was especially interesting because it allowed different engineering ideas to come together in one build. Instead of focusing on only movement or only coding, ScottyBot became a combination of suspension design, navigation, solar integration, voice interaction, and AI-based response.
+The inspiration for ScottyBot came from the idea of creating a robot that could integrate mobility, navigation, renewable energy, and interactive user communication into a single system. The goal was to make a project that was not only mechanical but also included electrical and software-based features. This project was especially interesting because it brought together different engineering ideas in one build. Instead of focusing solely on movement or coding, ScottyBot became a combination of suspension design, navigation, solar integration, voice interaction, and AI-based responses.
 
 # Brainstorming photos
 
-Add brainstorming images, sketches, or notebook screenshots here.
+<img width="368" height="447" alt="image" src="https://github.com/user-attachments/assets/70a9fc8f-bc88-4d04-b1ab-325a8585cf69" />
+
 
 # Component Research
 
