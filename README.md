@@ -12,56 +12,88 @@ Future Improvements
 
 # Inspiration
 
-The inspiration for ScottyBot came from the idea of creating a robot that could integrate mobility, navigation, renewable energy, and interactive user communication into a single system. The goal was to make a project that was not only mechanical but also included electrical and software-based features. This project was especially interesting because it brought together different engineering ideas in one build. Instead of focusing solely on movement or coding, ScottyBot became a combination of suspension design, navigation, solar integration, voice interaction, and AI-based responses.
+The inspiration for ScottyBot was to create a robot that integrates mobility, navigation, renewable energy, and interactive user communication into a single system. The goal was to create a project that was not only mechanical but also included electrical and software components. This project was especially interesting because it brought together different engineering ideas into a single build. Instead of focusing solely on movement or coding, ScottyBot became a combination of suspension design, navigation, solar integration, voice interaction, and AI-based responses.
 
 # Brainstorming photos
 
 <img width="368" height="447" alt="image" src="https://github.com/user-attachments/assets/70a9fc8f-bc88-4d04-b1ab-325a8585cf69" />
 
 
-# Component Research
+# Component Research/ Component list
 
-Before building and integrating the system, research was done on the main parts needed for ScottyBot. This included mechanical parts, electrical components, and software-related systems.
+Before building and integrating the system, research was conducted on the key components needed for ScottyBot. This included mechanical parts, electrical components, and software-related systems.
 
 ## Suspension
 - Front wheel suspension components
 - Mounting hardware
 - Wheel support structure
+The front suspension was added to improve wheel stability and enable the robot to better handle uneven surfaces. This also helped strengthen the mechanical design of the front section.
 
-The front suspension was added in order to improve wheel stability and allow the robot to better handle uneven surfaces. This also helped strengthen the mechanical design of the front section.
+Components:
+- Suspension hinge pins: 19.00
+- Suspension shocks: 75.00
+- Suspension shock towers: 10.00
+- Suspesnion arms: 50.00
+Total cost: 154.00
 
 ## Navigation System
 - Distance display system
 - Directional guidance logic
 - Location input concept
+The navigation system is currently relatively simple, but it can show the distance to a location and provide brief directions. This gives ScottyBot a basic navigation feature that can be expanded in the future.
 
-The navigation system is currently shallow in complexity, but it is able to show the distance to a location and provide mini directions. This gives ScottyBot a basic navigation feature that can be expanded in the future.
+Components:
+- Raspberry Pi Pico self-startup kit, including OLED Screen: 20.00
+- GPS Module: 12.50
+- Magnometer Module: 10.00
+Total Cost: 42.50
 
 ## Solar System
 - Solar panel
 - Power transfer to electronics
 - Supplemental energy design
+Solar power was added to the power system to support sustainability and demonstrate the use of renewable energy in the robot design.
 
-Solar was added as part of the power system to support sustainability and show the use of renewable energy in the robot design.
+Components:
+- 300W Solar Panel with Solar controller: 35.00
+Total cost: 35.00
 
 ## Battery and Electronics
 - Battery
 - Wiring connections
 - Power distribution to electronics
-
 The battery was wired into the electronics system so the robot could power its required components. Special attention was given to keeping the wiring organized and functional.
+
+Components:
+- 12V Battery: 46.00
+- Motor Driver: 8.00
+- Inline Fuses: 10.00
+- Inline Fuse Blades: 5.00
+- Electrical Wire: 10.00
+- 5v DC to DC Buck Convertor: 6.00
+- Breadboard wiring: 10.00
+- Micro HDMI to HDMI: 15.00
+- Velcro Sticky straps: 10.00
+- 2 Arduino R3: 30.00
+Total Cost: 150.00
 
 ## Voice Commands
 - Voice input system
 - Command recognition setup
 
-Voice commands were added so the robot could respond to user speech and provide a more interactive experience.
+Components:
+- USB Microphone: 13.00
+- Bluetooth speaker: 5.00
+Total Cost: 18.00
 
 ## AI Response
 - AI-generated response system
 - User interaction support
+An AI response feature was implemented to enable ScottyBot to respond during interactions. This adds an intelligent communication element to the project.
 
-An AI response feature was implemented to allow ScottyBot to give responses during interaction. This adds an intelligent communication element to the project.
+Components:
+- Raspberry Pi: 75.00
+Total cost: 75.00
 
 # System Features
 
