@@ -47,6 +47,7 @@ Components:
 - Raspberry Pi Pico self-startup kit, including OLED Screen: 20.00
 - GPS Module: 12.50
 - Magnometer Module: 10.00
+
 Total Cost: 42.50
 
 ## Solar System
@@ -57,6 +58,7 @@ Solar power was added to the power system to support sustainability and demonstr
 
 Components:
 - 300W Solar Panel with Solar controller: 35.00
+
 Total cost: 35.00
 
 ## Battery and Electronics
@@ -76,6 +78,7 @@ Components:
 - Micro HDMI to HDMI: 15.00
 - Velcro Sticky straps: 10.00
 - 2 Arduino R3: 30.00
+
 Total Cost: 150.00
 
 ## Voice Commands
@@ -85,6 +88,7 @@ Total Cost: 150.00
 Components:
 - USB Microphone: 13.00
 - Bluetooth speaker: 5.00
+
 Total Cost: 18.00
 
 ## AI Response
@@ -94,6 +98,7 @@ An AI response feature was implemented to enable ScottyBot to respond during int
 
 Components:
 - Raspberry Pi: 75.00
+
 Total cost: 75.00
 
 # System Features
