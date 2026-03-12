@@ -1,14 +1,14 @@
 ### Table of Contents
 
-Inspiration  
-Brainstorming photos  
-Component Research / Component list
-System Features  
-Process and Progress  
-Safety Precautions 
-Final Product
-What I learned throughout the project
-Future Improvements  
+- Inspiration
+- Brainstorming photos
+- Component Research / Component list
+- System Features
+- Process and Progress
+- Safety Precautions
+- Final Product
+- What I learned throughout the project
+- Future Improvements  
 
 # Inspiration
 
