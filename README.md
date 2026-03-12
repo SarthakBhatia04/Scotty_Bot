@@ -146,8 +146,11 @@ ScottyBot can also produce AI-based responses, making the interaction more advan
 ## Sensor Setup
 
 <img width="736" height="977" alt="image" src="https://github.com/user-attachments/assets/d562ad54-ffa2-4d5d-a308-b0b875b09cf5" />
+Set up the ultrasonic sensors on the Arduino before installing them on Scotty to make sure they work properly. Connected Vout and GND to the dedicated breadboard rails, and wired the trig and echo pins to alternating Arduino pins like D6, D7 for one sensor, and D8, D9 for another.
 <img width="584" height="779" alt="image" src="https://github.com/user-attachments/assets/1f322232-d2a1-4a57-b62b-f6f0f8898925" />
+Shows that the sensors work with the maximuim distance they can sense
 <img width="563" height="318" alt="image" src="https://github.com/user-attachments/assets/7d5c5c25-cf3a-4aca-aa6f-cd3fae9aa9cc" />
+A picture of the sensors lines up unfront of scotty
 
 ## Solar Setup
 
