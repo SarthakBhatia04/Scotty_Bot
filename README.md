@@ -91,33 +91,33 @@ ScottyBot can also produce AI-based responses, making the interaction more advan
 
 # Process and Progress
 
-## Step 1
+## Sensor Setup
 
-Planned the major subsystems of the robot, including mobility, power, navigation, and interaction.
+<img width="736" height="977" alt="image" src="https://github.com/user-attachments/assets/d562ad54-ffa2-4d5d-a308-b0b875b09cf5" />
+<img width="584" height="779" alt="image" src="https://github.com/user-attachments/assets/1f322232-d2a1-4a57-b62b-f6f0f8898925" />
+<img width="563" height="318" alt="image" src="https://github.com/user-attachments/assets/7d5c5c25-cf3a-4aca-aa6f-cd3fae9aa9cc" />
 
-## Step 2
+## Solar Setup
 
-Added front wheel suspension in order to improve the mechanical setup and front-end support.
+<img width="1045" height="780" alt="image" src="https://github.com/user-attachments/assets/390bfca1-fa4e-41a5-b397-39d79572788f" />
+<img width="589" height="638" alt="image" src="https://github.com/user-attachments/assets/059c0f2d-e7f4-499c-a065-c586130c97bf" />
+<img width="593" height="784" alt="image" src="https://github.com/user-attachments/assets/3ab94623-e1d7-4f87-9773-7c09e9b30218" />
 
-## Step 3
+## Suspension Setup
 
-Integrated the battery and electronics wiring while making sure the system remained organized and functional.
+<img width="579" height="782" alt="image" src="https://github.com/user-attachments/assets/b7d9a974-068f-4271-9481-ec46619ae388" />
+<img width="530" height="841" alt="image" src="https://github.com/user-attachments/assets/5fefdfc1-acef-40ae-a4ac-8ad534ba77bc" />
+<img width="583" height="780" alt="image" src="https://github.com/user-attachments/assets/5f025960-b031-4f0c-b527-38a198b807c8" />
+<img width="581" height="781" alt="image" src="https://github.com/user-attachments/assets/0e6a041b-2238-4bfe-9876-45cce9581e9d" />
 
-## Step 4
+## Ai setup
 
-Added solar as part of the energy design and connected it into the project concept.
+<img width="639" height="777" alt="image" src="https://github.com/user-attachments/assets/4423e050-b941-4506-b8e7-85e2a975ced7" />
 
-## Step 5
+## Wiring
 
-Developed a basic navigation system that can display distance and give mini directions.
-
-## Step 6
-
-Implemented voice command functionality so ScottyBot could accept spoken inputs.
-
-## Step 7
-
-Added AI response capability to improve the robot’s interactive behavior.
+<img width="584" height="783" alt="image" src="https://github.com/user-attachments/assets/0d1450d5-6c67-4746-b904-1fc47f1f7f0f" />
+<img width="466" height="623" alt="image" src="https://github.com/user-attachments/assets/62eb5380-cda8-4bde-b97b-cbe00d48128a" />
 
 # Safety Precautions
 
