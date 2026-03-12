@@ -34,6 +34,7 @@ Components:
 - Suspension shocks: 75.00
 - Suspension shock towers: 10.00
 - Suspesnion arms: 50.00
+
 Total cost: 154.00
 
 ## Navigation System
