@@ -19,14 +19,16 @@ The inspiration for ScottyBot was to create a robot that integrates mobility, na
 1. <img width="368" height="447" alt="image" src="https://github.com/user-attachments/assets/70a9fc8f-bc88-4d04-b1ab-325a8585cf69" />
 2. <img width="390" height="453" alt="image" src="https://github.com/user-attachments/assets/cee0868e-f57d-49f6-9226-e56f8597494e" />
 3. <img width="393" height="470" alt="image" src="https://github.com/user-attachments/assets/004c80b6-c62a-4ae3-9d65-7b0c01659598" />
+4. 
 5. <img width="417" height="470" alt="image" src="https://github.com/user-attachments/assets/8512a8dd-b3ad-4365-8110-69574710feaa" />
 6. <img width="481" height="447" alt="image" src="https://github.com/user-attachments/assets/1682796e-a0c7-416f-9f96-75cde78ab805" />
 7. <img width="406" height="476" alt="image" src="https://github.com/user-attachments/assets/194bba6a-80e2-4960-a08d-820336322316" />
 8. <img width="451" height="473" alt="image" src="https://github.com/user-attachments/assets/99dfaac8-6f17-4990-8ea7-7bd14e0f52be" />
 9. <img width="472" height="476" alt="image" src="https://github.com/user-attachments/assets/52060101-ad71-46ef-8573-8ed29f3f0089" />
-10. <img width="433" height="361" alt="image" src="https://github.com/user-attachments/assets/e73f32b4-df9c-46a6-a694-0066405aeccf" />
-11. <img width="467" height="382" alt="image" src="https://github.com/user-attachments/assets/354f8374-9c01-404f-a4fd-2e0374efa76b" />
-12. <img width="544" height="346" alt="image" src="https://github.com/user-attachments/assets/5b369edd-dea7-4c9a-9a01-748656aa9a3b" />
+10.
+11.  <img width="433" height="361" alt="image" src="https://github.com/user-attachments/assets/e73f32b4-df9c-46a6-a694-0066405aeccf" />
+12. <img width="467" height="382" alt="image" src="https://github.com/user-attachments/assets/354f8374-9c01-404f-a4fd-2e0374efa76b" />
+13. <img width="544" height="346" alt="image" src="https://github.com/user-attachments/assets/5b369edd-dea7-4c9a-9a01-748656aa9a3b" />
 Design matrix:
 <img width="2395" height="854" alt="image" src="https://github.com/user-attachments/assets/677e37bb-4d89-4fed-8e90-719f4bbc39a4" />
 
