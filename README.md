@@ -76,6 +76,7 @@ Components:
 - 300W Solar Panel with Solar controller: 35.00
 
 Total cost: 35.00
+
 <img width="794" height="569" alt="image" src="https://github.com/user-attachments/assets/3aa0f305-9378-4bf6-a0a1-61cff193ef49" />
 
 ## Battery and Electronics
