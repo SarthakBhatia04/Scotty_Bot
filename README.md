@@ -50,6 +50,7 @@ Components:
 - Suspesnion arms: 50.00
 
 Total cost: 154.00
+<img width="1271" height="843" alt="image" src="https://github.com/user-attachments/assets/a16458e2-ced8-494e-a592-c9179a6b067d" />
 
 ## Navigation System
 - Distance display system
@@ -63,6 +64,7 @@ Components:
 - Magnometer Module: 10.00
 
 Total Cost: 42.50
+<img width="929" height="656" alt="image" src="https://github.com/user-attachments/assets/facc3773-5c20-47f6-b47b-a6f9345290b7" />
 
 ## Solar System
 - Solar panel
@@ -74,6 +76,7 @@ Components:
 - 300W Solar Panel with Solar controller: 35.00
 
 Total cost: 35.00
+<img width="794" height="569" alt="image" src="https://github.com/user-attachments/assets/3aa0f305-9378-4bf6-a0a1-61cff193ef49" />
 
 ## Battery and Electronics
 - Battery
@@ -184,6 +187,9 @@ A picture of the sensors lines up unfront of scotty
 Safety precautions were considered during the battery and electronics wiring process. Care was taken to keep wiring organized, avoid unsafe connections, and reduce the chance of damaging electrical components.
 
 This was an important part of the build because a working robot system depends not only on features being added, but also on making sure the electronics are connected in a safe and reliable way.
+<img width="635" height="847" alt="image" src="https://github.com/user-attachments/assets/f1e23d79-1a53-4a55-9733-96f92cbe27ab" />
+<img width="631" height="836" alt="image" src="https://github.com/user-attachments/assets/65f2ae25-e7b5-4360-a9fd-cbbd76afa0a3" />
+<img width="630" height="841" alt="image" src="https://github.com/user-attachments/assets/3d00b611-34f8-4206-9750-74f48d10c2e2" />
 
 # Future Improvements
 
