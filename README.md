@@ -97,6 +97,8 @@ Components:
 - 2 Arduino R3: 30.00
 
 Total Cost: 150.00
+<img width="942" height="337" alt="image" src="https://github.com/user-attachments/assets/a2aa0486-1acd-47f2-b154-2096ac632450" />
+<img width="822" height="435" alt="image" src="https://github.com/user-attachments/assets/3a278da1-84b9-4cca-b657-a5a429fc7d6c" />
 
 ## Voice Commands
 - Voice input system
@@ -107,6 +109,7 @@ Components:
 - Bluetooth speaker: 5.00
 
 Total Cost: 18.00
+<img width="1244" height="923" alt="image" src="https://github.com/user-attachments/assets/6f0e76a9-7205-49e1-abd2-4cf22c62f747" />
 
 ## AI Response
 - AI-generated response system
