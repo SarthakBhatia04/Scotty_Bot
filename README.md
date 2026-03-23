@@ -206,7 +206,3 @@ Although ScottyBot has made strong progress, several systems can still be expand
 - Make AI responses more advanced and context-aware
 
 ScottyBot currently has a strong base that combines mechanical design, power integration, and user interaction. Future work will focus on making each subsystem more polished and capable.
-
-Process photos
-=============
-In progress
